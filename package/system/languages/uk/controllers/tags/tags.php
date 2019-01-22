@@ -1,0 +1,30 @@
+<?php
+
+define('LANG_TAGS_CONTROLLER', 'Теги');
+define('LANG_TAGS_TAG', 'Тег');
+define('LANG_TAGS_ROOT_OPTIONS', 'Налаштування головної сторінки тегів');
+define('LANG_TAGS_TAG_FREQUENCY', 'Частота');
+define('LANG_TAGS_SEARCH_BY_TAG', 'Пошук за тегом «%s»');
+define('LANG_TAGS_SEARCH_NO_RESULTS', 'Нічого не знайдено');
+define('LANG_TAGS_TAG_DELETE_CONFIRM', 'Видалити тег «{tag}»?');
+define('LANG_TAGS_MERGED', 'Тег «%s» обʼєднаний з тегом «%s»');
+define('LANG_TAGS_SETTINGS', 'Налаштувати теги');
+define('LANG_TAGS_RECOUNT', 'Перерахувати теги');
+define('LANG_TAGS_CONTEXT_LT_SEARCH', 'При пошуку за тегами');
+define('LANG_TAGS_SEO_HINT', 'Можна використовувати вирази {tag} - поточний тег, {ctype_title} - назва поточного типу контенту');
+define('LANG_WD_TAGS_CLOUD_ORDERING', 'Сортувати теги');
+define('LANG_WD_TAGS_CLOUD_ORDER_BY_TAG', 'За алфавітом');
+define('LANG_WD_TAGS_CLOUD_ORDER_BY_FREQ', 'За частотою використання');
+define('LANG_WD_TAGS_CLOUD_STYLE', 'Показувати як');
+define('LANG_WD_TAGS_CLOUD_STYLE_CLOUD', 'Хмара');
+define('LANG_WD_TAGS_CLOUD_STYLE_LIST', 'Список');
+define('LANG_WD_TAGS_CLOUD_MAX_FS', 'Максимальний розмір шрифту в хмарі, пікс.');
+define('LANG_WD_TAGS_CLOUD_MIN_FS', 'Мінімальний розмір шрифту в хмарі, пікс.');
+define('LANG_WD_TAGS_CLOUD_LIMIT', 'Кількість тегів');
+define('LANG_WD_TAGS_SUBJECTS', 'Показувати теги');
+define('LANG_WD_TAGS_MIN_FREQ', 'Мінімальна частота тегу');
+define('LANG_WD_TAGS_MIN_LEN', 'Мінімальна довжина тегу');
+define('LANG_WD_TAGS_MIN_LEN_UNITS', 'симв.');
+define('LANG_WD_TAGS_COLORS', 'Можливі кольори для тегів');
+define('LANG_WD_TAGS_COLORS_HINT', 'Введіть через кому (без пробілів) коди кольорів в форматі #RRGGBB. Якщо не вказано, теги будуть одного кольору.');
+define('LANG_WD_TAGS_SHUFFLE', 'Перемішувати теги');
